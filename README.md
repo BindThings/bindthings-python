@@ -1,6 +1,6 @@
 # BindThings Python
 
-Official Python client for the [BindThings](https://bindthings.io) IoT Platform.
+Official Python client for the [BindThings](https://bindthings.com) IoT Platform.
 
 ## Installation
 
