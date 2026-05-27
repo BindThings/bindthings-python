@@ -20,7 +20,6 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Topic :: Home Automation",
-        "Topic :: Internet of Things",
     ],
     keywords = "iot mqtt bindthings telemetry raspberry-pi",
 )
